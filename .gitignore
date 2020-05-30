@@ -1,0 +1,28 @@
+# web2py
+cache
+cron
+databases
+errors
+sessions
+uploads
+
+*.py[co]
+
+# VS Code
+.vscode
+
+# Vim
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+*~
+
+*.log
+
+# Generales
+Thumbs.db
+.DS_Store
+*.DS_Store
